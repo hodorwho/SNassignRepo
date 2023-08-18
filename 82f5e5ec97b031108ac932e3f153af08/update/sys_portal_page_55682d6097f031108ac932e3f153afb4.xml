@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-08-18 12:27:41">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>admin</read_roles>
+        <roles>admin</roles>
+        <selectable>true</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:57:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>55682d6097f031108ac932e3f153afb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hello_world_page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SNapp" source="x_1108152_snapp">82f5e5ec97b031108ac932e3f153af08</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNapp">82f5e5ec97b031108ac932e3f153af08</sys_scope>
+        <sys_update_name>sys_portal_page_55682d6097f031108ac932e3f153afb4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:57:56</sys_updated_on>
+        <title>hello_world_page</title>
+        <user/>
+        <view/>
+    </sys_portal_page>
+</record_update>
